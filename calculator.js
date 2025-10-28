@@ -7,8 +7,7 @@ console.log("MULTIPLY", multiply(x, y))
 console.log("DIVIDE", divide(x,y))
 console.log("SQUARE", square(x))
 
-
-}
+ 
 function subtract(x,y){
   return x-y
 }
